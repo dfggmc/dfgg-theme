@@ -1,0 +1,146 @@
+{
+    "public": {
+        "site": {
+            "title": "dfgg服务器",
+            "describe": "一个我的世界生存服务器"
+        },
+        "operate": {
+            "return_to_previous_page": "返回上一页",
+            "change_language": "更改语言"
+        },
+        "page_footer": [
+            {
+                "text": "©2023 dfggMC Minecraft服务器",
+                "href": "http://dfggmc.top/",
+                "target": "null"
+            },
+            {
+                "text": "| 雨云提供云计算服务",
+                "href": "https://www.rainyun.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "| 萌ICP备20230195号",
+                "href": "https://icp.gov.moe/?keyword=20230195",
+                "target": "_blank"
+            }
+        ]
+    },
+    "page": {
+        "home": {
+            "index": {
+                "title": "dfgg服务器主页",
+                "describe": "一个我的世界生存服务器",
+                "join_button": "加入我们",
+                "about_button": "关于服务器",
+                "game_button": "小游戏"
+            },
+            "join": {
+                "title": "加入我们",
+                "describe": null,
+                "qq_group_number_button": "QQ群号：569578817",
+                "online_chat_rooms_button": "在线聊天室",
+                "discord_sever_button": "Discord服务器",
+                "bbs_button": "论坛"
+            },
+            "about": {
+                "title": "关于服务器",
+                "describe": "关于服务器的链接",
+                "plan_button": "服务器计划",
+                "sponsorship_list_button": "赞助名单",
+                "stae_button": "服务器状态",
+                "map_button": "服务器地图"
+            },
+            "game": {
+                "title": "网页小游戏",
+                "describe": "peg195闲的没事搞的",
+                "google_dinosaur_game_button": "谷歌浏览器小恐龙",
+                "fruit_ninja_button": "水果忍者"
+            }
+        },
+        "page": {
+            "stae": {
+                "title": "dfggmc原版生存服务器状态",
+                "describe": "感谢<a href='https://gitee.com/GamerNoTitle/Minecraft-Server-Status'>GamerNoTitle</a>提供技术支持",
+                "stae": "状态：",
+                "server_online": "在线",
+                "server_offline": "离线",
+                "ip_or_host": "域名：",
+                "port": "端口：",
+                "MOTD": "MOTD：",
+                "clean_motd": "清除颜色参数后的 MOTD：",
+                "html_motd": "颜色参数转为 HTML 的 MOTD：",
+                "platform": "平台：",
+                "game_type": "游戏类型：",
+                "version": "兼容游戏版本：",
+                "software": "服务器使用的软件或核心：",
+                "players_max": "可容纳最大玩家数：",
+                "number_of_online_players": "在线玩家数",
+                "agreement": "使用的查询方式：",
+                "processed": "查询用时：",
+                "current_online_players": "目前在线玩家 ",
+                "no_players_online": "没有玩家在线"
+            },
+            "plan": {
+                "title": "计划",
+                "describe": null,
+                "item": [
+                    {
+                        "status": "[已完成]",
+                        "content": "2023.04 转型成为生电服务器"
+                    },
+                    {
+                        "status": "[已完成]",
+                        "content": "2023.04 将服务器核心从paper更换为Cuberite"
+                    },
+                    {
+                        "status": "[已废弃]",
+                        "content": "关停viaproxy和geyser"
+                    },
+                    {
+                        "status": "[已废弃]",
+                        "content": "开be版服务器代替geyser互通"
+                    },
+                    {
+                        "status": "[已完成]",
+                        "content": "重新回到生存服务器"
+                    },
+                    {
+                        "status": "[进行中]",
+                        "content": "7月拍服务器一周年玩家合照"
+                    },
+                    {
+                        "status": "[已完成]",
+                        "content": "适配java1.20和基岩1.20"
+                    }
+                ]
+            },
+            "sponsorship_list": {
+                "title": "peg195的精神支柱",
+                "describe": null,
+                "item": [
+                    {
+                        "content": "奕晨 在 服务器商店 里 赞助了0.01元"
+                    },
+                    {
+                        "content": "你鳝丝大跌 送了 peg195 一个Minecraft正版账号"
+                    },
+                    {
+                        "content": "<a href='https://www.xcccx.top'>小枫_QWQ</a>给dfgg服务器提供了域名和官网服务器"
+                    },
+                    {
+                        "content": "<a href='https://www.rainyun.com/' target='_blank' rel='noopener noreferrer'>感谢雨云提供云计算服务</a>"
+                    }
+                ]
+            },
+            "map": {
+                "title": "服务器网页地图",
+                "item": [
+                    {
+                        "content": "<a href='../map/1.19.3/index.html'>1.19.3</a>"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "public": {
+        "site": {
+            "title": "dfgg Server",
+            "describe": "A Minecraft survival server"
+        },
+        "operate": {
+            "return_to_previous_page": "Return to previous page",
+            "change_language": "Change language"
+        },
+        "page_footer": [
+            {
+                "text": "©2023 dfggMC Minecraft Server",
+                "href": "http://dfggmc.top/",
+                "target": "null"
+            },
+            {
+                "text": "| Powered by Rainyun",
+                "href": "https://www.rainyun.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "| Moe ICP No. 20230195",
+                "href": "https://icp.gov.moe/?keyword=20230195",
+                "target": "_blank"
+            }
+        ]
+    },
+    "page": {
+        "home": {
+            "index": {
+                "title": "dfgg Server Home",
+                "describe": "A Minecraft survival server",
+                "join_button": "Join Us",
+                "about_button": "About Server",
+                "game_button": "Mini Games"
+            },
+            "join": {
+                "title": "Join Us",
+                "describe": null,
+                "qq_group_number_button": "QQ Group Number: 569578817",
+                "online_chat_rooms_button": "Online Chat Rooms",
+                "discord_sever_button": "Discord Server",
+                "bbs_button": "Forum"
+            },
+            "about": {
+                "title": "About Server",
+                "describe": "Links about the server",
+                "plan_button": "Server Plans",
+                "sponsorship_list_button": "Sponsor List",
+                "stae_button": "Server Status",
+                "map_button": "Server Web Map"
+            },
+            "game": {
+                "title": "Web Games",
+                "describe": "Games made by peg195",
+                "google_dinosaur_game_button": "Google Dinosaur Game",
+                "fruit_ninja_button": "Fruit Ninja"
+            }
+        },
+        "page": {
+            "stae": {
+                "title": "dfggMC Vanilla Survival Server Status",
+                "describe": "Thanks to <a href='https://gitee.com/GamerNoTitle/Minecraft-Server-Status'>GamerNoTitle</a> for technical support",
+                "stae": "Status: ",
+                "server_online": "Online",
+                "server_offline": "Offline",
+                "ip_or_host": "Hostname: ",
+                "port": "Port: ",
+                "MOTD": "MOTD: ",
+                "clean_motd": "MOTD without color codes: ",
+                "html_motd": "MOTD with HTML color codes: ",
+                "platform": "Platform: ",
+                "game_type": "Game type: ",
+                "version": "Compatible game version: ",
+                "software": "Software or core used by the server: ",
+                "players_max": "Maximum number of players: ",
+                "number_of_online_players": "Number of online players",
+                "agreement": "Query method used: ",
+                "processed": "Time taken to query: ",
+                "current_online_players": "Currently online players: ",
+                "no_players_online": "No players online"
+            },
+            "plan": {
+                "title": "Server Plans",
+                "describe": null,
+                "item": [
+                    {
+                        "status": "[Completed]",
+                        "content": "Apr. 2023: Transformed into a power generation server"
+                    },
+                    {
+                        "status": "[Completed]",
+                        "content": "Apr. 2023: Changed the server core from Paper to Cuberite"
+                    },
+                    {
+                        "status": "[Abandoned]",
+                        "content": "Shut down viaproxy and geyser"
+                    },
+                    {
+                        "status": "[Abandoned]",
+                        "content": "Opened a Bedrock edition server to replace Geyser's cross-play feature"
+                    },
+                    {
+                        "status": "[Completed]",
+                        "content": "Returned to a survival server"
+                    },
+                    {
+                        "status": "[In Progress]",
+                        "content": "July: Server's 1-year anniversary photo"
+                    },
+                    {
+                        "status": "[Completed]",
+                        "content": "Adapted to Java 1.20 and Bedrock 1.20"
+                    }
+                ]
+            },
+            "sponsorship_list": {
+                "title": "Peg195's Spiritual Support",
+                "describe": null,
+                "item": [
+                    {
+                        "content": "Yi Chen sponsored 0.01 CNY in the server shop"
+                    },
+                    {
+                        "content": "Ni Shan Si Da Die gave peg195 a Minecraft premium account"
+                    },
+                    {
+                        "content": "<a href='https://www.xcccx.top'>Xiao Feng QWQ</a> provided a domain name and official website server for dfgg Server"
+                    },
+                    {
+                        "content": "<a href='https://www.rainyun.com/' target='_blank' rel='noopener noreferrer'>Thanks to Rainyun for providing cloud computing services</a>"
+                    }
+                ]
+            },
+            "map": {
+                "title": "Server Web Map",
+                "item": [
+                    {
+                        "content": "<a href='../map/1.19.3/index.html'>1.19.3</a>"
+                    }
+                ]
+            }
+        }
+    }
+}
